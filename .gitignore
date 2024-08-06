@@ -1,0 +1,12 @@
+# General
+.venv/
+res/
+out/
+logs/
+.env
+
+# MacOS
+.DS_Store
+
+# mlflow artifacts
+mlruns/
